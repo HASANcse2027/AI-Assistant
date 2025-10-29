@@ -1,6 +1,6 @@
 # AI-Assistant
 This Projects moto is to develop our skills and get started on the world of programming.
-FIRST GOAL :- <br>The Smart Multi-Browser Search Assistant is a Python-based intelligent tool designed to enhance 
+<br><br><strong>FIRST GOAL</strong> <br>The Smart Multi-Browser Search Assistant is a Python-based intelligent tool designed to enhance 
 web searching efficiency by enabling users to perform searches simultaneously across multiple 
 browsers such as Google Chrome, Brave, Firefox, and Microsoft Edge. The system allows users to 
 compare search results from different sources in real time, helping them find the most relevant and 
