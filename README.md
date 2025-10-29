@@ -8,7 +8,8 @@ accurate information with minimal effort.
 This assistant integrates a web-based frontend built using HTML, CSS, and JavaScript to provide a 
 simple and responsive user interface where users can input queries and view results. The backend, 
 powered by Python’s webbrowser module, manages browser automation and executes multi
-browser searches. 
+browser searches.
+<br><strong>Future ambitions</strong> 
 The project demonstrates the potential of combining automation and web technologies to simplify 
 research and online information retrieval. Future enhancements include integrating voice command 
 functionality and AI-powered search engines to provide smarter, more context-aware responses and 
